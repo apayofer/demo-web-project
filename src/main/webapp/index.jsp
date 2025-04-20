@@ -3,9 +3,9 @@
     <title>Demo Web Project</title>
     <style>
         body {
-            background: linear-gradient(to top, #e0c3fc, #8ec5fc);
+            background: linear-gradient(to top, #b9fbc0, #a18cd1);
             font-family: 'Segoe UI', sans-serif;
-            color: #2e1f47;
+            color: #2d2d2d;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -16,13 +16,13 @@
         h2 {
             font-size: 2.2em;
             margin-bottom: 0.5em;
-            color: #5e4b8b;
+            color: #3e2c68;
         }
         .content {
-            background-color: #ffffffcc;
-            padding: 25px;
-            border-radius: 12px;
-            box-shadow: 0 0 12px rgba(0,0,0,0.08);
+            background-color: #ffffffd9;
+            padding: 30px;
+            border-radius: 14px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             text-align: center;
         }
     </style>
